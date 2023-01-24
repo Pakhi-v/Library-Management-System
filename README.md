@@ -1,32 +1,39 @@
+# Library-Management-System 📚
+Mini-Project using Python 
 
-# Hacktoberfest-2022🔥
+# Library Management System
 
-## This repository aims to help developers with their first successful pull request and open source contribution.
-# Project Title
+<details><summary>Home Screen</summary>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Library-Management-System+%F0%9F%93%9A)](https://git.io/typing-svg)
+  ![](screencapture-library-local-sign-in-1450375374680.png?raw=true )
+</details>
 
+<details><summary>Student Panel</summary>
 
-## Description
+  ![](screencapture-library-local-book-1450375417998.png?raw=true )
+  ![](screencapture-library-local-student-registration-1450375390857.png?raw=true )
+</details>
 
-This mini project of python named Library Management System is a beignner friendly project, which can be used in the libraries of schools and colleges for adding new books in the library, issuing books to students and maintaining the record of the book that is returned.
+<details><summary>Librarian Panel</summary>
 
+  ![](screencapture-library-local-1450375427449.png?raw=true )
+  ![](screencapture-library-local-1450375550068.png?raw=true )
+  ![](screencapture-library-local-1450375572059.png?raw=true )
+</details>
 
-## Tech Stack
-Python
+<details><summary>Add New Books to library</summary>
 
+  ![](screencapture-library-local-add-books-1450375474305.png?raw=true )
+</details>
 
+<details><summary>Manage Students</summary>
 
+  ![](screencapture-library-local-students-for-approval-1450375439861.png?raw=true )
+  ![](screencapture-library-local-registered-students-1450375458648.png?raw=true )
+</details>
 
+<details><summary>Issue Books and logs</summary>
 
-
-
-## Features
-
-- Home Screen
-- Student Panel
-- Librarian Panel
-- Add New Books to library
-- Manage Students
-- Issue Books and logs
-
+  ![](screencapture-library-local-issue-return-1450375480498.png?raw=true )
+  ![](screencapture-library-local-currently-issued-1450375536118.png?raw=true )
+</details>
